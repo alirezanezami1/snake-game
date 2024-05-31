@@ -72,7 +72,7 @@ body{
 }
 
 @media screen and (max-width: 800px) {
-    .wrapper{
+    .container{
         width: 90vmin;
         height: 115vmin;
     }
